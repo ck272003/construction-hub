@@ -1,0 +1,34 @@
+# 🏗️ Construction Hub — End-to-End Construction Management App
+
+> Minor Project | B.Tech CSE (Computer Networking) | SRM Institute of Science and Technology | May 2025
+
+## 📌 Overview
+Construction Hub is a unified digital platform designed to eliminate inefficiencies in the construction sector. It integrates every stage of the building process — from initial planning to final handover — into a single, intuitive application.
+
+## 🚀 Key Features
+- 📅 Project Scheduling & Planning
+- 👷 Labour Allocation & Management
+- 📦 Procurement & Resource Tracking
+- 📄 Document Control & Version Management
+- 🔧 Equipment Rental Management
+- 💬 Stakeholder Communication
+- ☁️ Cloud-based Mobile Access
+- 📊 Analytics & Reporting
+
+## 🛠️ Tech Stack
+*(Add your actual tech stack here — React Native / Flutter / Firebase / Node.js etc.)*
+
+## 👥 Team
+- Vedant Pandey (RA2211029010013)
+- Chiranjeev Kumar (RA2211029010019)
+
+## 🎓 Guide
+Dr. S. Ushasukhanya — Associate Professor, Dept. of Networking and Communications, SRM IST
+
+## 📁 Project Structure
+- `/docs` — Project report and documentation
+- `/src` — Application source code
+- `/assets` — UI designs and diagrams
+
+## 📄 License
+This project was developed for academic purposes at SRM IST, Kattankulathur.
